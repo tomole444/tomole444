@@ -1,6 +1,7 @@
 ### Hi there 👋
 ## About me
 {
+
      "subject": "electrical engineering",
      "study graduation": "B.Eng.",
      "semester": 6,
