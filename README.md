@@ -4,7 +4,7 @@
 
      "subject": "electrical engineering",
      "study graduation": "B.Eng.",
-     "semester": 6,
+     "semester": 7,
      "country": "Germany"
 }
 ## :hammer_and_wrench: Languages and Tools :
