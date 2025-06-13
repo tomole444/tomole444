@@ -2,9 +2,8 @@
 ## About me
 {
 
-     "subject": "electrical engineering",
+     "profession": "software developer",
      "study graduation": "M.Eng.",
-     "semester": 2,
      "country": "Germany"
 }
 ## :hammer_and_wrench: Languages and Tools :
